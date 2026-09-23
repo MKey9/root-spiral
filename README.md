@@ -19,7 +19,7 @@ geometry is new; the contribution is a unified, elementary way of seeing it.
 
 ## This repository
 
-This is the public mirror of the archived record on Zenodo.
+This is the public mirror of the archived record on Zenodo: version DOI [10.5281/zenodo.22916487](https://doi.org/10.5281/zenodo.22916487).
 
 - **`Keynan_2026_A_Count_Without_Numbers.pdf`** — the paper.
 - **`supplementary/`** — companion materials:
@@ -33,8 +33,8 @@ This is the public mirror of the archived record on Zenodo.
 ## Cite
 
 > Keynan, M. (2026). *A Count Without Numbers: the √2 spiral, its folded dimension,
-> and why it is not Fibonacci.* Zenodo. https://doi.org/10.5281/zenodo.22916487
+> and why it is not Fibonacci.* Zenodo. https://doi.org/10.5281/zenodo.22916485 (concept DOI — always resolves to the latest version)
 
 ## License
 
-Creative Commons Attribution 4.0 International (CC-BY-4.0), matching the Zenodo record.
+Paper, figures, video and data: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), matching the Zenodo record. Code (`supplementary/draw_root_spiral.py`): [MIT License](LICENSE).
